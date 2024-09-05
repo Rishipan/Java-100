@@ -1,4 +1,4 @@
-// Sum of first n natural numbers
+// Sum of natural numbers in a range
 
 import java.util.Scanner;
 
